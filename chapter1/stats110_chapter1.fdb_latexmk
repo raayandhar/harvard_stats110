@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1686297368 "/Users/raayandhar/Github/harvard_stats110/chapter1/stats110_chapter1.tex" "stats110_chapter1.pdf" "stats110_chapter1" 1686297369
-  "/Users/raayandhar/Github/harvard_stats110/chapter1/stats110_chapter1.tex" 1686297366 867 913d24c3c6a1d5e30d6e5542674a542e ""
+["pdflatex"] 1686345338 "/Users/raayandhar/Github/harvard_stats110/chapter1/stats110_chapter1.tex" "stats110_chapter1.pdf" "stats110_chapter1" 1686345339
+  "/Users/raayandhar/Github/harvard_stats110/chapter1/stats110_chapter1.tex" 1686345338 868 39e969602644328f8c3f1a866c35a587 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm" 1246382020 1120 200be8b775682cdf80acad4be5ef57e4 ""
@@ -220,10 +220,10 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1671153093 2826435 5a00cbc070cfd93163253b543f6853ff ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "stats110_chapter1.aux" 1686297369 1377 a12ae3bc7fe9640941a2b0ae6d0b5a4d "pdflatex"
+  "stats110_chapter1.aux" 1686345339 1377 a12ae3bc7fe9640941a2b0ae6d0b5a4d "pdflatex"
   "stats110_chapter1.out" 0 -1 0 "pdflatex"
-  "stats110_chapter1.tex" 1686297366 867 913d24c3c6a1d5e30d6e5542674a542e ""
-  "stats110_chapter1.toc" 1686297369 145 dad88add12c6e04bef6bd8aaa826a992 "pdflatex"
+  "stats110_chapter1.tex" 1686345338 868 39e969602644328f8c3f1a866c35a587 ""
+  "stats110_chapter1.toc" 1686345339 145 dad88add12c6e04bef6bd8aaa826a992 "pdflatex"
   "tyler.sty" 1686296964 10553 5152a14c9396fe28bae814b8ede6a4b7 ""
   (generated)
   "stats110_chapter1.aux"
